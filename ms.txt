@@ -6,4 +6,5 @@ two
 three
 four
 five
+six
 Count to twenty
