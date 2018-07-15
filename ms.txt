@@ -11,4 +11,4 @@ Count to twenty
 This is written in my first branch!
 This is written in my second branch!
 This is written in my master branch!
-Earth day.
+Earth day!
